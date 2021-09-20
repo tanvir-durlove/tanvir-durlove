@@ -1,7 +1,7 @@
 ### Hi Folks, This is Tanvir Ahmed.
 
-- 🔭 I’m currently working on CARE Bangladesh
-- 🌱 I’m currently learning SPSS,R,Azure
+- 🔭 I’m currently working on KITE GAMES STUDIO.
+- 🌱 I’m currently learning Selenium
 - 📫 How to reach me: tanvirahameddurlove@gmail.com
 - ⚡ Fun fact: I can sleep while standing.
 
